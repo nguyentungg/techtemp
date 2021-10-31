@@ -8,6 +8,7 @@ This is a small desktop application developed in C# language used for measuring 
 ## Technology
 - C#
 - Visual Studio
+- WPF
 
 ## Author
 - Nguyen Tung
